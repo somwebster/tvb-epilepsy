@@ -33,6 +33,8 @@ This project contains the following packages:
 
 - tests
     <br>Inside this package there are various unit tests implemented for verifying the correctness of the code. They can also be used for tvb-epilepsy guidance, as they are smaller than examples package.
+    
+    ![alt text](http://docs.thevirtualbrain.org/_images/ModelingEpilepsy_bv.png)
 
 
 [![Build Status](https://travis-ci.org/the-virtual-brain/tvb-epilepsy.svg?branch=review)](https://travis-ci.org/the-virtual-brain/tvb-epilepsy) [![Coverage Status](https://coveralls.io/repos/github/the-virtual-brain/tvb-epilepsy/badge.svg)](https://coveralls.io/github/the-virtual-brain/tvb-epilepsy)
